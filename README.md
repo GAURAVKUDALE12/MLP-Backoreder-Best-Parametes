@@ -56,3 +56,8 @@ Data file contains the historical data for the 8 weeks prior to the week we are 
     rev_stop - Part risk flag
 
     went_on_backorder - Product actually went on backorder. This is the target value.
+    
+    
+    Right Error Metrics
+
+    Based on the businees,  right error metrics.  Recall/TPR
